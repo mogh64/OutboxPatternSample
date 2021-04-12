@@ -1,0 +1,9 @@
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\bin\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.deps.json
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\bin\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.dll
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\bin\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.pdb
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\obj\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.AssemblyInfoInputs.cache
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\obj\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.AssemblyInfo.cs
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\obj\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.csproj.CoreCompileInputs.cache
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\obj\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.dll
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\obj\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.pdb
+C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Infrastructure.Elastic\obj\Debug\netcoreapp3.1\Sample.Infrastructure.Elastic.csprojAssemblyReference.cache

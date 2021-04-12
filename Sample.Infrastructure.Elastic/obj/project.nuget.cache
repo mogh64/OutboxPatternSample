@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dqisd5XugiFADe3oXauizDoV/cepaTMGAGlirwqoYSx4I3bIKHyBv/wt6XqOp+F6Oy4TajZ/35Am5/P+AbyfJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.ghahremani\\source\\repos\\OutboxPatternSample\\Sample.Infrastructure.Elastic\\Sample.Infrastructure.Elastic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\elasticsearch.net\\7.12.0\\elasticsearch.net.7.12.0.nupkg.sha512",
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\nest\\7.12.0\\nest.7.12.0.nupkg.sha512",
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\m.ghahremani\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
