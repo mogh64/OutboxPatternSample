@@ -1,9 +1,0 @@
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\bin\Debug\netcoreapp3.1\Sample.Common.deps.json
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\bin\Debug\netcoreapp3.1\Sample.Common.dll
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\bin\Debug\netcoreapp3.1\Sample.Common.pdb
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.AssemblyInfoInputs.cache
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.AssemblyInfo.cs
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.csproj.CoreCompileInputs.cache
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.dll
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.pdb
-C:\Users\m.ghahremani\source\repos\OutboxPattern\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.csprojAssemblyReference.cache
